@@ -1,0 +1,28 @@
+body {
+  height: 100%;
+  background-image: url("images/paper-texture.jpg");
+  background-repeat: repeat;
+  background-size: initial;
+  padding-bottom: 20px;
+}
+
+.navbar {
+  margin-bottom: 20px;
+  background-color: rgba(255, 255, 255, 0.3);
+}
+
+.resume-container {
+  max-width: 48em;
+}
+
+.resume-right {
+  text-align: right;
+}
+
+.resume-chart {
+  max-width: 30em;
+}
+
+.dark-cell {
+  background-color: rgba(0, 0, 0, 0.1);
+}
